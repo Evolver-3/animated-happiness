@@ -3,7 +3,7 @@ import { useState,useEffect } from "react"
 
 const Navbar=()=>{
 
-  const [show,setShow]=useState(true);
+  const [show,setShow]=useState(false);
 
   useEffect(()=>{
     if(show){

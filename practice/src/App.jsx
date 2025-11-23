@@ -2,6 +2,7 @@
 import Home from "./components/Home"
 import About from "./components/About"
 import Project from "./components/Project"
+import Testimonial from "./components/Testimonial"
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Home/>
       <About/>
       <Project/>
+      <Testimonial/>
     
     </div>
   )
