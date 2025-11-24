@@ -10,7 +10,7 @@ function App() {
 
 
   return(
-    <div className="" >
+    <div className="dark:bg-grey-400" >
       
       <Home/>
       <About/>
